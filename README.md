@@ -1,4 +1,4 @@
-![logo]([Modern%20Personal%20LinkedIn%20Banner.png](https://github.com/Arshdeep1997/Arshdeep1997/blob/main/banner.png#:~:text=README.md-,banner,-.png)
+![logo](https://github.com/Arshdeep1997/Arshdeep1997/blob/main/banner.png#:~:text=README.md-,banner,-.png)
 <h1 align="center">Hi 👋, I'm Arshdeep Kaur</h1>
 <h3 align="center">A passionate Web Designer from Canada</h3>
 
