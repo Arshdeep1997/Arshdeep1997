@@ -1,3 +1,4 @@
+![logo](https://github.com/Arshdeep1997/Arshdeep1997/blob/main/Pink%20%26%20White%20Modern%20Personal%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Arshdeep Kaur</h1>
 <h3 align="center">A passionate Web Designer from Canada</h3>
 
